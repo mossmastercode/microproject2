@@ -3,7 +3,7 @@ h1{
 }
 @media (orientation:landscape){
   .title{
-    color: green;
+    color: Red;
   }
 }
 #welcome-section{
