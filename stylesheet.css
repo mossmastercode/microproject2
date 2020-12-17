@@ -1,7 +1,6 @@
 h1{
   color: blue
 }
-<<<<<<< HEAD
 @media (orientation:landscape){
   .title{
     color: green;
@@ -22,14 +21,5 @@ body,html{
   width: 100%; /* Full width */
 }
 li{
-  color:green;
+  color:green
 }
-=======
-
-@media (orientation:landscape)
-{ .title
-  
-  { color: green; 
-  } 
-} 
->>>>>>> 478a74c9646c642608ec92846c915799b9c0fef4
